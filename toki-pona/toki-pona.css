@@ -1,0 +1,13 @@
+html {
+    font-family: 'Roboto Slab', serif;
+    font-size: 12pt;
+    background-color: rgb(254, 255, 240);
+}
+
+header {
+    text-align: center;
+}
+
+header p {
+    padding: 0 15%;
+}
